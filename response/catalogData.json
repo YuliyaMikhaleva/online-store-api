@@ -7,7 +7,7 @@
 },
 {
     "id_product": 0002,
-    img: "../img/2pants.png",
+    "img": "../img/2pants.png",
     "product_name": "Брюки для треккинга",
     "price": 2000
 },
