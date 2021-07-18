@@ -1,72 +1,72 @@
 [{
-    id: 0001,
+    'id_product': 0001,
     img: "../img/1t_shirt.png",
-    title: 'Футболка спортивная',
+    'product_name': 'Футболка спортивная',
     price: 650
 },
 {
-    id: 0002,
+    'id_product': 0002,
     img: "../img/2pants.png",
-    title: 'Брюки для треккинга',
+    'product_name': 'Брюки для треккинга',
     price: 2000
 },
 {
-    id: 0003,
+    'id_product': 0003,
     img: "../img/3backpack.png",
-    title: 'Рюкзак Salomon 20л.',
+    'product_name': 'Рюкзак Salomon 20л.',
     price: 3000
 },
 {
-    id: 0004,
+    'id_product': 0004,
     img: "../img/4giacket.png",
-    title: 'Лёгкий пуховик для треккинга',
+    'product_name': 'Лёгкий пуховик для треккинга',
     price: 5000
 },
 {
-    id: 0005,
+    'id_product': 0005,
     img: "../img/5shoes.png",
-    title: 'Треккинговые ботинки',
+    'product_name': 'Треккинговые ботинки',
     price: 5500
 },
 {
-    id: 0006,
+    'id_product': 0006,
     img: "../img/6t_shirts.png",
-    title: 'Спортивная футболка женская',
+    'product_name': 'Спортивная футболка женская',
     price: 650
 },
 {
-    id: 0007,
+    'id_product': 0007,
     img: "../img/7membran.png",
-    title: 'Куртка мембранная',
+    'product_name': 'Куртка мембранная',
     price: 10000
 },
 {
-    id: 0008,
+    'id_product': 0008,
     img: "../img/8очки.png" ,
-    title: 'Очки солнцезащитные',
+    'product_name': 'Очки солнцезащитные',
     price: 2499
 },
 {
-    id: 0009,
+    'id_product': 0009,
     img: "../img/9флис.png",
-    title: 'Флисовая кофта',
+    'product_name': 'Флисовая кофта',
     price: 999
 },
 {
-    id: 00010,
+    'id_product': 00010,
     img: "../img/10панама.png",
-    title: 'Панама для походов',
+    'product_name': 'Панама для походов',
     price: 750
 },
 {
-    id: 0011,
+    'id_product': 0011,
     img: "../img/11шорты.png",
-    title: 'Шорты женские',
+    'product_name': 'Шорты женские',
     price: 1500
 },
 {
-    id: 0012,
+    'id_product': 0012,
     img: "../img/12носки.png",
-    title: 'Носки треккинговые',
+    'product_name': 'Носки треккинговые',
     price: 500
 }]
