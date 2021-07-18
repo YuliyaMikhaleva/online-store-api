@@ -1,4 +1,5 @@
-[{
+[
+{
     "id_product": 0001,
     "img": "../img/1t_shirt.png",
     "product_name": "Футболка спортивная",
@@ -69,4 +70,5 @@
     "img": "../img/12носки.png",
     "product_name": "Носки треккинговые",
     "price": 500
-}]
+}
+]
