@@ -1,24 +1,68 @@
 [{
-    "id": "5041",
-    "title": "T-Shirt",
-    "price": 150,
-    "img": "../dist/images/shirt.jpg"
+    img: "img/1t_shirt.png",
+    title: 'Футболка спортивная',
+    price: 650
 },
 {
-    "id": "2074",
-    "title": "Socks",
-    "price": 50,
-    "img": "../dist/images/socks.jpg"
+    img: "img/2pants.png",
+    title: 'Брюки для треккинга',
+    price: 2000
 },
 {
-    "id": "3009",
-    "title": "Jacket",
-    "price": 350,
-    "img": "../dist/images/jacket.jpg"
+    img: "img/3backpack.png",
+    title: 'Рюкзак Salomon 20л.',
+    price: 3000
 },
 {
-    "id": "5173",
-    "title": "Shoes",
-    "price": 250,
-    "img": "../dist/images/shoes.jpg"
+    img: "img/4giacket.png",
+    title: 'Лёгкий пуховик для треккинга',
+    price: 5000
+},
+{
+    id: 0001,
+    img: "img/5shoes.png",
+    title: 'Треккинговые ботинки',
+    price: 5500
+},
+{
+    id: 0002,
+    img: "img/6t_shirts.png",
+    title: 'Спортивная футболка женская',
+    price: 650
+},
+{
+    id: 0003,
+    img: "img/7membran.png",
+    title: 'Куртка мембранная',
+    price: 10000
+},
+{
+    id: 0004,
+    img: "img/8очки.png" ,
+    title: 'Очки солнцезащитные',
+    price: 2499
+},
+{
+    id: 0005,
+    img: "img/9флис.png",
+    title: 'Флисовая кофта',
+    price: 999
+},
+{
+    id: 0006,
+    img: "img/10панама.png",
+    title: 'Панама для походов',
+    price: 750
+},
+{
+    id: 0007,
+    img: "img/11шорты.png",
+    title: 'Шорты женские',
+    price: 1500
+},
+{
+    id: 0008,
+    img: "img/12носки.png",
+    title: 'Носки треккинговые',
+    price: 500
 }]
